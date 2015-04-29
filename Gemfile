@@ -43,5 +43,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
+#Simple Form aims to be as flexible as possible while helping you with powerful components to create your forms
 gem 'simple_form'
+#Devise is a flexible authentication solution for Rails based on Warden
+gem 'devise'
